@@ -32,4 +32,4 @@ Amazon Vine is an invitation-only program which selects the most insightful revi
 + Positivity Bias:
   + Based on this specific dataset of video game reviews, our analysis indicates that there are some bias towards 5-star reviews with the comparison of Vine reviews (paid) and Non-Vine reviews (unpaid). In the analysis above, the reviews that were paid for by Vine had a higher percentage of 5-star reviews than those that were not paid. 51.06% of the Vine reviews that were paid had 5-star ratings while only 38.70% of the Vine reviews that were not paid had 5-star ratings.
 + Additional Analysis:
-  + 
+  + Although there is some bias in video game Vine reviews, there could potentially be less bias in other categories. By doing additional analysis in other categories, it could help in determining if there bias in Vine reviews overall. One could run the same code for different categories to determine if each individual category has biases. 
